@@ -42,8 +42,4 @@
 3.  **Salin & Ubah:** Salin draf di atas ke file `README.md`. Ganti bagian `[kurung siku]` dengan informasi proyekmu.
 4.  **Commit & Push:** Simpan perubahannya, lalu *commit* dengan pesan seperti `docs: add detailed README` atau `feat: improve project documentation`. Lalu, *push* ke GitHub.
 
-Setelah ini, kita bisa lanjut ke langkah berikutnya: mempromosikan proyek ini di LinkedIn.
 
-Bagaimana, boss? Sudah siap untuk mulai?
-
-16:30, 10/09/2025
